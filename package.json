@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nipeshkc7/husky-demo/issues"
   },
-  "homepage": "https://github.com/nipeshkc7/husky-demo#readme"
+  "homepage": "https://github.com/nipeshkc7/husky-demo#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "jest": "^27.5.1"
+  }
 }
