@@ -1,0 +1,28 @@
+{
+  "name": "husky-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipeshkc7/husky-demo.git"
+  },
+  "keywords": [
+    "husky",
+    "tests"
+  ],
+  "author": "Arpan KC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nipeshkc7/husky-demo/issues"
+  },
+  "homepage": "https://github.com/nipeshkc7/husky-demo#readme",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "jest": "^27.5.1"
+  }
+}
